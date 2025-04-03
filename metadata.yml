@@ -1,0 +1,12 @@
+---
+:id: 7181421
+:submitters:
+- :name: Rayan Fawaz
+  :email: rayanfawaz@cmail.carleton.ca
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-11-29 18:31:43.560536000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-11-29 10:31:43.560536000 Z
+:status: processed
+:score: 99.0
